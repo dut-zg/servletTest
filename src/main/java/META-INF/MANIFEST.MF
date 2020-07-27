@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: activemq-broker-5.8.0.jar geronimo-j2ee-management_1.1_spe
+ c-1.0.1.jar commons-logging.jar fastjson-1.2.32.jar servlet-api.jar a
+ ctivemq-core-5.6.0.jar jsp-api.jar geronimo-jms_1.1_spec-1.1.1.jar ac
+ tivemq-pool-5.6.0.jar slf4j-api-1.6.6.jar commons-lang-2.6.jar jasper
+ .jar activemq-client-5.8.0.jar
+Main-Class: com.ActiveMq.MqClient
+
